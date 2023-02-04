@@ -15,4 +15,4 @@ https://wongkahyee.github.io/portfolio-test/
 ### To-Do List
  - [x] Link Pages
  - [x] 5 different pages
- - [] Add gallery
+ - [ ] Add gallery
